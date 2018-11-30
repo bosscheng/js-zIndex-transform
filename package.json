@@ -1,0 +1,5 @@
+{
+  "name": "js-zIndex-transform",
+  "version": "0.0.1",
+  "description": "a simple z-index transform by js,通过鼠标滑动，让一个伪3d的图片(设置perspective属性)，抖动起来。"
+}
